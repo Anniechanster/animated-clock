@@ -31,7 +31,7 @@ html {
 
 .hand-hour {
   transform-origin: center bottom;
-  animation: hour 6s linear infinite;
+  animation: hour 6s linear 12;
 }
 
 .hand-minute {
